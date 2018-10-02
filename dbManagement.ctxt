@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=mode
+comment0.target=dbManagement(int)
+comment1.params=s
+comment1.target=void\ load_file(java.lang.String)
+comment2.params=
+comment2.target=void\ show_elements()
+comment3.params=s
+comment3.target=int\ find_element(java.lang.String)
+comment4.params=s
+comment4.target=void\ show_info(java.lang.String)
+comment5.params=s\ i
+comment5.target=void\ add(java.lang.String,\ int)
+comment6.params=s\ g
+comment6.target=void\ update(java.lang.String,\ int)
+comment7.params=s
+comment7.target=void\ remove(java.lang.String)
+comment8.params=
+comment8.target=void\ bubble_sort()
+comment9.params=s
+comment9.target=void\ write_file(java.lang.String)
+numComments=10

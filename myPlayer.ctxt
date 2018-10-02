@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=s\ i
+comment0.target=myPlayer(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ get_name()
+comment2.params=
+comment2.target=int\ get_goals()
+comment3.params=s
+comment3.target=void\ set_name(java.lang.String)
+comment4.params=i
+comment4.target=void\ set_goals(int)
+comment5.params=
+comment5.target=void\ print_info()
+comment6.params=player
+comment6.target=boolean\ smaller(myPlayer)
+numComments=7

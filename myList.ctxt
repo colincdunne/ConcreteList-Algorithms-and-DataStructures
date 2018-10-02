@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ my_get_length()
+comment1.params=index
+comment1.target=java.lang.Object\ my_get_element(int)
+comment2.params=index\ element
+comment2.target=void\ my_add_element(int,\ java.lang.Object)
+comment3.params=index
+comment3.target=void\ my_remove_element(int)
+numComments=4

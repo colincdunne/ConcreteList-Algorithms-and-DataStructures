@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myListLinkedList()
+comment1.params=
+comment1.target=int\ my_get_length()
+comment2.params=index
+comment2.target=java.lang.Object\ my_get_element(int)
+comment3.params=index\ element
+comment3.target=void\ my_add_element(int,\ java.lang.Object)
+comment4.params=index
+comment4.target=void\ my_remove_element(int)
+numComments=5

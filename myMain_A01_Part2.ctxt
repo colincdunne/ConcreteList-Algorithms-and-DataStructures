@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sc
+comment0.target=int\ select_db_manager(java.util.Scanner)
+comment1.params=sc
+comment1.target=int\ select_option(java.util.Scanner)
+comment2.params=
+comment2.target=void\ interactive_session()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
